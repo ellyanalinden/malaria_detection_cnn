@@ -14,6 +14,7 @@ Building a CNN model using transfer learning (DenseNet 201) for malaria detectio
 
 ## Result & Conclusion
 I used DenseNet 201. The accuracy is 98%.
+VGG19 with accuracy of 93%.
 
 ## References
 * Kaggle malaria dataset https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
